@@ -1,1 +1,2 @@
-# Guess-the-hidden-word
+# Guess the hidden word
+project
